@@ -64,9 +64,38 @@
 
 ---
 
-## 🧪 Instructions d'installation
+## Installer les dépendances
+ 
+npm install
 
-1. **Cloner le projet**
-```bash
-git clone https://github.com/votre-utilisateur/ipfs-dapp.git
-cd ipfs-dapp
+## Lancer Ganache
+
+Ouvrir Ganache (en version Desktop ou CLI)
+
+## Déployer le contrat
+ 
+npx hardhat run scripts/deploy.js --network localhost
+
+## Lancer l’application React
+ 
+npm start
+
+## Configurer MetaMask
+
+Importer un compte depuis Ganache dans MetaMask
+
+Se connecter au réseau local Ganache (http://127.0.0.1:7545)
+
+## 📸 Captures d’écran
+
+Ajoute ici des captures montrant l’interface : formulaire de téléversement, liste de fichiers, aperçu IPFS, etc.
+
+## 🙋‍♂️ Auteur
+
+BAKLOUL MOHAMED 
+Ingénieur en systèmes d'information | Passionné par les technologies DATA  
+📧 bakloul.mohamed.100@gmail.com 
+🌍 Profil LinkedIn : https://www.linkedin.com/in/mohamed-bakloul-53052020b/
+
+## 🌐 linktr.ee/BAKLOUL.MOHAMED
+
