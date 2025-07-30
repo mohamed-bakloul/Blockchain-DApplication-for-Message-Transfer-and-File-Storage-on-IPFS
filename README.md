@@ -82,8 +82,6 @@ npm start
 
 ## Configurer MetaMask
 
-Importer un compte depuis Ganache dans MetaMask
-
 Se connecter au réseau local Ganache (http://127.0.0.1:7545)
 
 ## 📸 Captures d’écran
