@@ -47,3 +47,26 @@
 ### 4. **Stockage IPFS**
 
 - Les fichiers sont accessibles via n’importe quelle passerelle IPFS :
+
+
+- Pour garantir la disponibilité, les fichiers peuvent être **épinglés** via **Pinata**
+
+---
+
+## ⚙️ Technologies Utilisées
+
+| Couche | Technologies |
+|--------|--------------|
+| 💻 Frontend | ReactJS, JavaScript, HTML/CSS |
+| 🌐 Blockchain | Solidity, Ganache, MetaMask, Web3.js ou Ethers.js |
+| 📦 Stockage | IPFS, Pinata |
+| 🔧 Outils Dev | Hardhat ou Truffle, VSCode, Git/GitHub |
+
+---
+
+## 🧪 Instructions d'installation
+
+1. **Cloner le projet**
+```bash
+git clone https://github.com/votre-utilisateur/ipfs-dapp.git
+cd ipfs-dapp
