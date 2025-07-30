@@ -1,4 +1,6 @@
 # File-Storage-dapp
+L’ensemble des informations détaillées concernant l’application est disponible dans mon rapport de projet de fin d’études."pfe Mohamed bakloul PDF"
+
 # 🗂️ UpShare - Application Décentralisée de Stockage de Fichiers (DApp)
 
 **UpShare** est une application décentralisée (DApp) qui permet aux utilisateurs de téléverser, stocker et récupérer des fichiers à l’aide du système **IPFS (InterPlanetary File System)**. Elle utilise des **contrats intelligents Ethereum** (Solidity), une interface frontend développée en **ReactJS**, et l’extension **MetaMask** pour interagir avec la blockchain.
