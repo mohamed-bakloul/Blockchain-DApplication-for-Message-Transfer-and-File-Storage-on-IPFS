@@ -88,7 +88,8 @@ Se connecter au réseau local Ganache (http://127.0.0.1:7545)
 
 ## 📸 Captures d’écran
 
-Ajoute ici des captures montrant l’interface : formulaire de téléversement, liste de fichiers, aperçu IPFS, etc.
+<img width="1187" height="635" alt="Capture d’écran 2025-07-30 203935" src="https://github.com/user-attachments/assets/de5d6d29-454e-4e35-9e18-44e20e4b70e8" />
+
 
 ## 🙋‍♂️ Auteur
 
